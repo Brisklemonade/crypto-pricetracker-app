@@ -1,7 +1,10 @@
 <p align="center">
   <h1 align="center">Crypto Price Tracker App</h1>
-  <h3 align="center">A cryptocurrency price tracker that uses React Native to retrieve the 20 most popular cryptocurrencies from the [Coin Gecko API](https://www.coingecko.com/en/api) and display them in a list with charts.</h3>
+  <h3 align="center">A cryptocurrency price tracker that uses React Native to retrieve the 20 most popular cryptocurrencies and display them in a list with charts.</h3>
+  Using the [Coin Gecko API](https://www.coingecko.com/en/api)
 </p>
+
+
 
 ## Installation
 1.
