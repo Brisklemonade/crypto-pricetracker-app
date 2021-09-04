@@ -3,6 +3,9 @@
   <h3 align="center">A cryptocurrency price tracker that uses React Native to retrieve the 20 most popular cryptocurrencies and display them in a list with charts.</h3>
 </p>
 
+## Overview
+The app files are located in the master branch.
+
 ## Installation
 1.
 ```bash
